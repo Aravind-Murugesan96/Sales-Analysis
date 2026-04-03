@@ -59,12 +59,10 @@ This project analyzes sample sales data for AAL, a clothing company in Australia
 ## 📁 Files Included
 
 * `DS_Sales_Analysis.ipynb` → Full analysis notebook
-* Dataset file (if included)
+* Dataset file
 
 ## 📌 Conclusion
 
 This project helps AAL make data-driven decisions for business expansion and sales improvement.
-
----
 
 ✨ Developed as part of GenAI Course Assignment
